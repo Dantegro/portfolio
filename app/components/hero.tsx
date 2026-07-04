@@ -11,7 +11,7 @@ export default function Hero() {
                     <h1 className="text-3xl font-bold">Dan Nguyen</h1>
 
                     <div className="mt-4 space-y-4">
-                        <p>Web developer for small businesses. Helping visitors become customers with websites and web apps that don’t just look good — they solve real business problems.
+                        <p>I build websites and web apps for small businesses that don’t just look good — they help turn visitors into customers and power real business operations.
                         </p>
                     </div>
                 </div>
